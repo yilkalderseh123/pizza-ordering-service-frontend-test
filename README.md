@@ -1,4 +1,5 @@
 
 Pizza Ordering Service Frontend Created
-  and components and pages directory are added in src directory
+
+  And structured in components and pages directory format structure in src directory
   
